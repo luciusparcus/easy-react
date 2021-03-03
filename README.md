@@ -4,7 +4,7 @@ In honour of @Ho-Joon-Kim for encouragement and @velopert for writing the profou
 | Anticipated Study Date | Chapter Name | Is Completed |
 | ---------------------- | ------------ | ------------ |
 | 2021.03.2 | 1장 리액트 시작 | &#9745; |
-| 2021.03.3 | 2장 JSX | &#9744; |
+| 2021.03.3 | 2장 JSX | &#9745; |
 | 2021.03.4 | 3장 컴포넌트 | &#9744; |
 | 2021.03.5 | 4장 이벤트 핸들링 | &#9744; |
 | 2021.03.6 | 5장 ref: DOM에 이름 달기 | &#9744; |
